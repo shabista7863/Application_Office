@@ -21,14 +21,16 @@ $limit = 10;
         $page=1; 
        };  
 $record_index= ($page-1) * $limit; 
-
+echo "SELECT pi.id,pi.status,pi.name, pi.reference, pi.price,pc.category FROM product_category as pc INNER JOIN product_item as pi on pc.id=pi.c_id 
+order by pi.id DESC";
+die;
 $select = $conn->prepare("SELECT pi.id,pi.status,pi.name, pi.reference, pi.price,pc.category FROM product_category as pc INNER JOIN product_item as pi on pc.id=pi.c_id 
        order by pi.id DESC ");
 $select->execute();
 $row_count= $select->rowCount();
 $res = $select->fetch(PDO::FETCH_BOTH);
-print_r($res);
-die;
+// print_r($res);
+// die;
 
 ?>
 
