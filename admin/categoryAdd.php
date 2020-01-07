@@ -70,7 +70,7 @@ $category = $_POST['category'];
 				<?php echo $message; ?>
 			</div>
 		</div>
-		// test new  this 
+		
 
 <div class="form-group">
 	<br>
