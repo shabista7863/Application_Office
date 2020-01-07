@@ -23,11 +23,12 @@ $limit = 10;
 $record_index= ($page-1) * $limit; 
 
 $select = $conn->prepare("SELECT pi.id,pi.status,pi.name, pi.reference, pi.price,pc.category FROM product_category as pc INNER JOIN product_item as pi on pc.id=pi.c_id 
-       ".$term." order by pi.id DESC LIMIT $record_index,$limit");
+       order by pi.id DESC ");
 $select->execute();
 $row_count= $select->rowCount();
 $res = $select->fetch(PDO::FETCH_BOTH);
-
+print_r($res);
+die;
 
 ?>
 
