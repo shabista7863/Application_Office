@@ -29,8 +29,8 @@ $select = $conn->prepare("SELECT pi.id,pi.status,pi.name, pi.reference, pi.price
 $select->execute();
 $row_count= $select->rowCount();
 $res = $select->fetch(PDO::FETCH_BOTH);
-// print_r($res);
-// die;
+print_r($res);
+die;
 
 ?>
 
