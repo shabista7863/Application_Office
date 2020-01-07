@@ -1,0 +1,70 @@
+[10-Dec-2019 10:03:05 Etc/GMT] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/altsowm4/public_html/application_office/admin/productUpdate.php on line 50
+[10-Dec-2019 10:20:36 Etc/GMT] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/altsowm4/public_html/application_office/admin/productUpdate.php on line 50
+[10-Dec-2019 10:21:26 Etc/GMT] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/altsowm4/public_html/application_office/admin/productUpdate.php on line 50
+[12-Dec-2019 09:21:46 Etc/GMT] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/altsowm4/public_html/application_office/admin/productUpdate.php on line 50
+[13-Dec-2019 09:28:00 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 103
+[13-Dec-2019 09:28:04 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 103
+[13-Dec-2019 09:53:21 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 103
+[13-Dec-2019 09:53:23 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 103
+[13-Dec-2019 09:53:25 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 103
+[13-Dec-2019 09:53:26 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 103
+[13-Dec-2019 09:53:26 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 103
+[13-Dec-2019 09:54:30 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 103
+[13-Dec-2019 09:59:56 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 103
+[13-Dec-2019 10:00:51 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 103
+[13-Dec-2019 10:04:33 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 103
+[13-Dec-2019 10:05:29 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 103
+[13-Dec-2019 10:22:06 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 103
+[13-Dec-2019 10:22:21 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 103
+[13-Dec-2019 10:23:00 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 103
+[13-Dec-2019 10:23:38 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 105
+[13-Dec-2019 10:23:45 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 105
+[13-Dec-2019 10:24:15 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 106
+[13-Dec-2019 10:24:20 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 106
+[13-Dec-2019 10:27:20 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 106
+[13-Dec-2019 10:27:50 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 106
+[13-Dec-2019 10:28:17 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 106
+[13-Dec-2019 10:30:29 Etc/GMT] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/altsowm4/public_html/application_office/admin/paymentList.php on line 106
+[16-Dec-2019 08:44:40 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:44:44 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:44:45 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:44:46 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:44:46 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:44:47 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:46:02 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:46:04 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:46:04 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:46:04 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:46:05 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:46:06 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:46:06 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:46:22 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:46:23 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:46:23 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:46:24 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:46:24 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:46:24 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:47:36 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 206
+[16-Dec-2019 08:48:43 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 207
+[16-Dec-2019 08:48:51 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 207
+[16-Dec-2019 08:49:25 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 208
+[16-Dec-2019 08:49:26 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 208
+[16-Dec-2019 08:49:38 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/altsowm4/public_html/application_office/admin/productList.php on line 208
+[16-Dec-2019 11:23:21 Etc/GMT] PHP Warning:  PDO::prepare() expects parameter 1 to be string, object given in /home/altsowm4/public_html/application_office/admin/productList.php on line 27
+[16-Dec-2019 11:23:21 Etc/GMT] PHP Fatal error:  Call to a member function execute() on boolean in /home/altsowm4/public_html/application_office/admin/productList.php on line 28
+[16-Dec-2019 11:23:45 Etc/GMT] PHP Warning:  PDO::prepare() expects parameter 1 to be string, object given in /home/altsowm4/public_html/application_office/admin/productList.php on line 27
+[16-Dec-2019 11:23:45 Etc/GMT] PHP Fatal error:  Call to a member function execute() on boolean in /home/altsowm4/public_html/application_office/admin/productList.php on line 28
+[16-Dec-2019 11:23:52 Etc/GMT] PHP Warning:  PDO::prepare() expects parameter 1 to be string, object given in /home/altsowm4/public_html/application_office/admin/productList.php on line 27
+[16-Dec-2019 11:23:52 Etc/GMT] PHP Fatal error:  Call to a member function execute() on boolean in /home/altsowm4/public_html/application_office/admin/productList.php on line 28
+[16-Dec-2019 11:23:53 Etc/GMT] PHP Warning:  PDO::prepare() expects parameter 1 to be string, object given in /home/altsowm4/public_html/application_office/admin/productList.php on line 27
+[16-Dec-2019 11:23:53 Etc/GMT] PHP Fatal error:  Call to a member function execute() on boolean in /home/altsowm4/public_html/application_office/admin/productList.php on line 28
+[16-Dec-2019 11:23:54 Etc/GMT] PHP Warning:  PDO::prepare() expects parameter 1 to be string, object given in /home/altsowm4/public_html/application_office/admin/productList.php on line 27
+[16-Dec-2019 11:23:54 Etc/GMT] PHP Fatal error:  Call to a member function execute() on boolean in /home/altsowm4/public_html/application_office/admin/productList.php on line 28
+[16-Dec-2019 11:23:54 Etc/GMT] PHP Warning:  PDO::prepare() expects parameter 1 to be string, object given in /home/altsowm4/public_html/application_office/admin/productList.php on line 27
+[16-Dec-2019 11:23:54 Etc/GMT] PHP Fatal error:  Call to a member function execute() on boolean in /home/altsowm4/public_html/application_office/admin/productList.php on line 28
+[16-Dec-2019 11:23:54 Etc/GMT] PHP Warning:  PDO::prepare() expects parameter 1 to be string, object given in /home/altsowm4/public_html/application_office/admin/productList.php on line 27
+[16-Dec-2019 11:23:54 Etc/GMT] PHP Fatal error:  Call to a member function execute() on boolean in /home/altsowm4/public_html/application_office/admin/productList.php on line 28
+[16-Dec-2019 11:23:56 Etc/GMT] PHP Warning:  PDO::prepare() expects parameter 1 to be string, object given in /home/altsowm4/public_html/application_office/admin/productList.php on line 27
+[16-Dec-2019 11:23:56 Etc/GMT] PHP Fatal error:  Call to a member function execute() on boolean in /home/altsowm4/public_html/application_office/admin/productList.php on line 28
+[16-Dec-2019 11:24:20 Etc/GMT] PHP Warning:  PDO::prepare() expects parameter 1 to be string, object given in /home/altsowm4/public_html/application_office/admin/productList.php on line 27
+[16-Dec-2019 11:24:20 Etc/GMT] PHP Fatal error:  Call to a member function execute() on boolean in /home/altsowm4/public_html/application_office/admin/productList.php on line 28

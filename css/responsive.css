@@ -1,0 +1,18 @@
+@media (max-width:1199px){ 
+ .mn {min-height: 245px;}
+} /* --end of 1199px ---*/
+
+@media (max-width:991px){ 
+    .c-box{ margin-bottom: 60px;}
+    .mn {min-height: 220px;}
+    .mar-banner { margin-top: 60px;}
+} /* --end of 991px ---*/
+
+
+@media (max-width:767px){
+    .file-box{ text-align: center;}
+    .mn {min-height: auto;}
+} /* --end of 767px ---*/
+
+
+@media (max-width:480px){ } /* --end of 480px ---*/

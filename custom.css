@@ -1,0 +1,88 @@
+.logo{ margin-top: -6px;}
+.color-blue{color: #376aa2;}
+.product-box{transition: all ease-in-out 0.5s; overflow: hidden; box-sizing: border-box; min-height: 500px}
+
+.product-box:hover{ transform: scale(1.1, 1.1); overflow: hidden;}
+.product-box p{ margin-bottom: 5px; font-size: 14px;  }
+.product-box h4.title {
+       padding: 0;
+    margin: 15px 0 12px;
+    color: #1b5594;
+    font-size: 19px;
+    font-weight: 500;}
+.ref span, .price-span{ font-weight: bold;
+    font-size: 20px;
+    vertical-align:middle;
+    color: #124a99; }   
+    
+    .left-side h3  {
+        margin: 0;
+        background: #6c757c;
+        text-align: center;
+        color: #fff;
+        padding: 5px;
+    }
+    .nav-pills .nav-link{ border-radius: 0px;}
+    .left-side a{ color: grey;     border-bottom: solid 1px #e8e4e4;}
+    .modal-header {
+        background: #257bff;
+        color: #fff;}
+    .modal-header h4{ font-size: 16px;}
+    .detail-rightsidebar{background: #f5f5f5;
+        padding: 15px;
+        border: solid 1px #e0dada;
+        box-shadow: 0px 0px 5px #cac5c5;}
+   .detail-rightsidebar h2 {    font-size: 24px;
+            text-transform: capitalize;
+            color: #124a99;}
+    .detail-rightsidebar h5{font-weight: 500;
+        color: #0e4289;
+        margin: 0;
+        padding: 0;}
+    .f-description{font-size: 14px;
+        color: #484646;}  
+    .modal-scroll{ overflow: auto; height: 400px;}    
+   .avatar-img{    width: 80px;
+    height: 80px; border: solid 3px #dadadac3; padding: 2px;
+    border-radius: 50%;
+    margin-top: -60px; background: #fff;
+    margin-bottom: 20px;} 
+.mn{ min-height: 195px;}  
+.product-coman-box{ text-align: center; }
+.product-coman-box img, .p-img{ max-width: 150px;}
+.product-coman-box h5, .box-heading{ background: #376aa2;
+    color: #fff;
+   padding: 10px;
+    font-size: 18px;
+    line-height: 26px;}
+.product-coman-box p{ padding: 0 15px; color: #868484;
+    font-size: 15px;
+    line-height: 25px;}
+.btn-primary:focus{ color: #fff;}
+
+.payment-list{ margin: 0; padding: 0;}
+.payment-list li{ text-align: center;
+    padding: 9px;
+    color: #6d6a6a;
+    line-height: 25px;
+    border-bottom: solid 1px #e2dbdb;
+    font-size: 14px;}
+.payment-list li:last-child{background: #257bff;
+    color: #fff;
+    font-size: 17px;}
+.mar-banner{ margin-top: 80px;}
+.w170{max-width: 170px;position: absolute;bottom: 25px;left: 50%;transform: translate(-50%);}
+.no-data-found{margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+    padding: 54px 30px;
+    width: 100%;
+    max-width: 470px;}
+
+  .no-data-found i, .no-data-found span{    color: #ea3c00;}  
+   .no-data-found i{ font-size: 60px }
+   .sticky-top{ top: 75px; }
+
+
+
+
