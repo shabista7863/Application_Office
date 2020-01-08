@@ -80,7 +80,9 @@ if(isset($_POST['submit']) && !empty($_POST['submit'])){
 					$result->bindparam(':image',$imageName,PDO::PARAM_STR);
 					}
 				
-					 $result->execute();
+					 $rr= $result->execute();
+					print_r($rr);
+					die;
 						if($result){
 							$message=  '<div class="alert alert-success ">
 				               Successfully Inserted Data!
