@@ -63,7 +63,8 @@ if(isset($_POST['submit']) && !empty($_POST['submit'])){
 	if( !empty($name) && !empty($reference) && !empty($price) && !empty($description) ){	
 		if(move_uploaded_file($temp, $targetDownload)) { //download file					
 					 $insert="insert into product_item (c_id,name,reference,price,description,video,image,file) values (:c_id, :name,:reference,:price,:description,:video,:image,:file)";
-					
+					 print_r($insert);
+					 die;
 					$result=$conn->prepare($insert);
 					$result->bindparam(':c_id', $c_id, PDO::PARAM_INT);
 					$result->bindparam(':name', $name, PDO::PARAM_STR);
@@ -80,9 +81,8 @@ if(isset($_POST['submit']) && !empty($_POST['submit'])){
 					$result->bindparam(':image',$imageName,PDO::PARAM_STR);
 					}
 				
-					 $rr= $result->execute();
-					print_r($rr);
-					die;
+					  $result->execute();
+					
 						if($result){
 							$message=  '<div class="alert alert-success ">
 				               Successfully Inserted Data!
