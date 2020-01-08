@@ -65,7 +65,7 @@ if(isset($_POST['submit']) && !empty($_POST['submit'])){
 					 $insert="INSERT INTO product_item (c_id,name,reference,price,description,video,image,file) VALUES (:c_id, :name,:reference,:price,:description,:video,:image,:file)";
 					
 					$result=$conn->prepare($insert);
-					print_r($result);
+					echo $result;
 die;
 					$result->bindparam(':c_id', $c_id, PDO::PARAM_INT);
 					$result->bindparam(':name', $name, PDO::PARAM_STR);
