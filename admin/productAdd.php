@@ -80,7 +80,7 @@ if(isset($_POST['submit']) && !empty($_POST['submit'])){
 					$result->bindparam(':image',$imageName,PDO::PARAM_STR);
 					}
 				
-					  $result->execute();
+					  $rr=$result->execute();
 					
 						if($result){
 							$message=  '<div class="alert alert-success ">
@@ -104,11 +104,11 @@ if(isset($_POST['submit']) && !empty($_POST['submit'])){
 		}//if image	
 	}
 }
-
-$select =$conn->prepare("select * from product_category where status='1' ");
-$rr=$select->execute();
- print_r($rr);
+print_r($rr);
 die;
+$select =$conn->prepare("select * from product_category where status='1' ");
+$select->execute();
+
 ?>
 <!DOCTYPE HTML>
 <html>
