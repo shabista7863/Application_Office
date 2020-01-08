@@ -62,9 +62,11 @@ if(isset($_POST['submit']) && !empty($_POST['submit'])){
 
 	if( !empty($name) && !empty($reference) && !empty($price) && !empty($description) ){	
 		if(move_uploaded_file($temp, $targetDownload)) { //download file					
-					 $insert="insert into product_item (c_id,name,reference,price,description,video,image,file) values (:c_id, :name,:reference,:price,:description,:video,:image,:file)";
+					 $insert="INSERT INTO product_item (c_id,name,reference,price,description,video,image,file) VALUES (:c_id, :name,:reference,:price,:description,:video,:image,:file)";
 					
 					$result=$conn->prepare($insert);
+					print_r($result);
+die;
 					$result->bindparam(':c_id', $c_id, PDO::PARAM_INT);
 					$result->bindparam(':name', $name, PDO::PARAM_STR);
 					$result->bindparam(':reference',$reference,PDO::PARAM_STR);
@@ -80,7 +82,7 @@ if(isset($_POST['submit']) && !empty($_POST['submit'])){
 					$result->bindparam(':image',$imageName,PDO::PARAM_STR);
 					}
 				
-					  $rr=$result->execute();
+					  $result->execute();
 					
 						if($result){
 							$message=  '<div class="alert alert-success ">
@@ -104,8 +106,7 @@ if(isset($_POST['submit']) && !empty($_POST['submit'])){
 		}//if image	
 	}
 }
-print_r($rr);
-die;
+
 $select =$conn->prepare("select * from product_category where status='1' ");
 $select->execute();
 
