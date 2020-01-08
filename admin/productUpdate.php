@@ -25,8 +25,8 @@ if(isset($_POST['submit'])){
 	$result->bindparam(':description',$description);
 	$result->bindparam(':video',$video);
 	$result->execute();
-	print_r($result);
-	die;
+	// print_r($result);
+	// die;
 
 	if($_FILES["image"]["name"]){
 			$temp  = $_FILES["image"]["tmp_name"];
@@ -82,8 +82,8 @@ $select ="SELECT * FROM product_item WHERE id ='".$_GET['id']."' ";
 $results=$conn->prepare($select);
 $results->execute();
 $res = $results->fetch(PDO::FETCH_ASSOC);
-// print_r($res);
-// die;
+print_r($res);
+die;
 
 // category name
 $selCat =$conn->prepare("SELECT * FROM product_category order by category asc");
