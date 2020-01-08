@@ -20,7 +20,7 @@ $record_index= ($page-1) * $limit;
 	$select = $conn->prepare("SELECT id,category,status,created_date FROM product_category  ".$term." ORDER BY id DESC LIMIT $record_index, $limit ");
 	$select->execute();
     $row_count = $select->rowCount();
-//	$result =$select->fetchAll();
+	$result =$select->fetchAll();
 ?>
 
 <!DOCTYPE HTML>
@@ -76,7 +76,7 @@ $record_index= ($page-1) * $limit;
 								$i=1;
 								
 								if($row_count>0){	
-								while($row =$select->fetch(PDO::FETCH_ASSOC)){
+									foreach($result as $row){
 								?>
 
 								<tr> 
